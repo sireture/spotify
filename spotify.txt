@@ -1,4 +1,5 @@
 audio-ak-spotify-com.akamaized.net
+apresolve.spotify.com
 00.audio-ak.cdn.spotify.com
 00.video-ak.cdn.spotify.com
 01.audio-ak.cdn.spotify.com
