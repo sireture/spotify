@@ -263,8 +263,6 @@
 98.video-ak.cdn.spotify.com
 99.audio-ak.cdn.spotify.com
 99.video-ak.cdn.spotify.com
-#
-#new
 a0.audio-ak.cdn.spotify.com
 a0.video-ak.cdn.spotify.com
 a1.audio-ak.cdn.spotify.com
@@ -981,7 +979,6 @@ partnerad.l.doubleclick.net
 partnerportal.spotify.com
 partners.spotify.com
 partners.wg.spotify.com
-pay
 payment-callback.spotify.com
 pci.spotify.com
 pixel.admobclick.com
