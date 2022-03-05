@@ -1,3 +1,4 @@
+ad.doubleclick.net
 audio-ak-spotify-com.akamaized.net
 apresolve.spotify.com
 00.audio-ak.cdn.spotify.com
@@ -42,7 +43,7 @@ apresolve.spotify.com
 2d.audio-ak.cdn.spotify.com
 2d.video-ak.cdn.spotify.com
 2e.audio-ak.cdn.spotify.com
-2e.video-ak.cdn.spotify.com
+2e.video-ak.cdn.spotify.co
 2f.audio-ak.cdn.spotify.com
 2f.video-ak.cdn.spotify.com
 3a.audio-ak.cdn.spotify.com
